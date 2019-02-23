@@ -42,8 +42,8 @@
     "env": {
       "NODE_ENV": "developement",
       "PORT": 4000,
-      "MONGO_PASS": "PfyJa9DNZWOSBdGf",
-      "GOOGLE_KEY": "AIzaSyAvHeBhDMX1-6UCYR1u5B3NIVSO85_dYlE"
+      "MONGO_PASS": "",
+      "GOOGLE_KEY": ""
     }
   }
 }
